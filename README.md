@@ -1,5 +1,5 @@
 <h1 align="center">Hi, me Quantum</h1>
-<h3 align="center">Cybersecurity Researcher | Ethical Hacker | Content Creator | Graphic Design | Game Design | Astrospace | Foot-Ball</h3>
+<h3 align="center">Cybersecurity Researcher | Ethical Hacker | Content Creator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantum-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-hacker" /> </p>
 
