@@ -1,16 +1,47 @@
-<h1 align="center">Hi, me Quantum</h1>
-<h3 align="center">Cybersecurity Researcher | Ethical Hacker | Content Creator </h3>
+# CH SATHWIK // GODMODE
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantum-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="quantum-hacker" /> </p>
+Production-ready personal portfolio for CH SATHWIK (`sxthwik`): Next.js 15, TypeScript, Tailwind, Framer Motion, React Three Fiber, Recharts, shadcn-style UI primitives, and Supabase-ready API routes.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/quantum_hawker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quantum_hawker" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ethical-hacker-sathwik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ethical-hacker-sathwik/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sxthwik_sudo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sxthwik_sudo/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Quantum-Hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@quantum-hacker" height="30" width="40" /></a>
-</p>
+## Run locally
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantum-hacker&show_icons=true&locale=en" alt="quantum-hacker" /></p>
+```bash
+npm install
+Copy-Item .env.example .env.local
+npm run dev
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quantum-hacker&" alt="quantum-hacker" /></p>
+Open `http://localhost:3000`.
+
+## Production contact delivery
+
+The contact form posts to `/api/contact`. For real delivery, configure either a Supabase service key or a Discord webhook (or both):
+
+1. Create a Supabase project.
+2. Run `supabase/schema.sql` in the Supabase SQL editor.
+3. Copy the project URL into `NEXT_PUBLIC_SUPABASE_URL`.
+4. Copy the anon key into `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
+5. Copy the server-only service role key into `SUPABASE_SERVICE_ROLE_KEY`.
+6. Optionally set `DISCORD_WEBHOOK_URL` for instant Discord delivery.
+
+Never expose `SUPABASE_SERVICE_ROLE_KEY` to the browser.
+
+## Deploy to Vercel
+
+```bash
+npm run build
+npm run start
+```
+
+Import the repo into Vercel, add the `.env.local` values in Project Settings, and deploy. `NEXT_PUBLIC_SITE_URL` should be the final HTTPS domain for canonical metadata, robots, and sitemap.
+
+## Included production features
+
+- App Router with typed shared data and API routes
+- Responsive cyber aesthetic with dark/light and mute controls
+- SSR-safe Three.js scene with particle field and rotating wireframe core
+- Animated terminal with copy action
+- Recharts radar and interactive skill tree
+- Downloadable source bundles under `public/downloads`
+- Responsible-disclosure research log and CVSS labels
+- Supabase schema plus Discord webhook delivery
+- Open Graph/Twitter metadata, sitemap, robots, and PWA manifest
