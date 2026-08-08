@@ -1,4 +1,4 @@
-[![header](https://wallpapercat.com/w/full/b/c/6/471116-1920x1080-desktop-full-hd-bruce-wayne-wallpaper-image.jpg)](https://x.com/chsxthwik/)
+[![header](https://github.com/chsxthwik/chsxthwik/blob/main/bb-banner.png?raw=true)](https://x.com/chsxthwik/)
 
 :^>  
 // cybersecurity researcher polymath // offensive/defensive security // Threat & OSINT Intelligence // full-stack AI engineer //
