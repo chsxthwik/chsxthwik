@@ -28,7 +28,7 @@
 
 <div align="center">
 
-### 🔥 CURRENT MISSION  
+### 🔥 CURRENT MISSION 🔥 
 **7 LAKH GITHUB FOLLOWERS**  
 *The strawberry army is rising* 🍓🍓🍓🍓🍓🍓🍓
 
