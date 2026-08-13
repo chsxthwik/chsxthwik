@@ -3,7 +3,7 @@
 <div align="center">
 
 # ⚡ QUANTUM ⚡  
-### Cybersecurity Polymath • Offensive / Defensive • Threat & OSINT • Full-Stack AI Engineer
+### Cyber Polymath • Offensive / Defensive • Threat & OSINT • Full-Stack AI Engineer
 
 `hacking the matrix one strawberry at a time` :^>
 
