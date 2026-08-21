@@ -14,8 +14,8 @@
 <p align="center">
   <a href="https://x.com/chsxthwik"><img src="https://img.shields.io/badge/𝕏_Twitter-@chsxthwik-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://x.com/chsxthwik"><img src="https://img.shields.io/badge/Website-Live-00FF9F?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://x.com/chsxthwik"><img src="https://img.shields.io/badge/Blogs_&_Research-Read-FF6B6B?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a href="mailto:zxculus@proton.me"><img src="https://img.shields.io/badge/Email-zxculus@proton.me-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://medium.com/@xbow"><img src="https://img.shields.io/badge/Blogs_&_Research-Read-FF6B6B?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="mailto:sathwik832@gmail.com"><img src="https://img.shields.io/badge/Email-zxculus@proton.me-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
