@@ -6,7 +6,7 @@
 
 <br/>
 
-# ⚡ QUANTUM
+# ⚡ QUANTUM ⚡
 
 ### `Cyber Polymath` • `Offensive / Defensive Security` • `Threat Research` • `OSINT` • `Full-Stack AI`
 
