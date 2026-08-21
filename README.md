@@ -56,16 +56,3 @@
 </div>
 
 ---
-
-## 🧬 WHOAMI
-
-```text
-┌──[ quantum@matrix ]──[ ~/identity ]
-│
-├─ alias       : QUANTUM
-├─ class       : Cyber Polymath
-├─ focus       : Cyber × AI × Engineer
-├─ weapons     : Curiosity
-├─ mindset     : Offensive thinking + Defensive execution
-├─ fuel        : Strawberries 🍓
-└─ status      : ONLINE ⚡
