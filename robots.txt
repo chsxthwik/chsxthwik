@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://chsxthwik.github.io/chsxthwik/sitemap.xml
