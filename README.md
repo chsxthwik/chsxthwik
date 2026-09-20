@@ -6,7 +6,7 @@
 
 # QUANTUM
 
-Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research · AI
+Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1100&color=00FF9F&center=true&vCenter=true&width=520&lines=I+stay+until+the+claim+is+true+or+finished" alt="I stay until the claim is true or finished"/>
 
