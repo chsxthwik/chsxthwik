@@ -17,7 +17,7 @@
 <a href="https://x.com/chsxthwik">
   <img src="https://img.shields.io/badge/𝕏-@chsxthwik-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-<a href="https://x.com/chsxthwik">
+<a href="https://sxthwik.xyz">
   <img src="https://img.shields.io/badge/Website-LIVE-00FF9F?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="https://medium.com/@xbow">
