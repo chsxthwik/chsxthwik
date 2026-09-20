@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="28" viewBox="0 0 220 28" role="img" aria-label="online">
-  <circle cx="18" cy="14" r="4" fill="#00FF9F">
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="24" viewBox="0 0 120 24" role="img" aria-label="online">
+  <circle cx="10" cy="12" r="3.5" fill="#00FF9F">
     <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="18" cy="14" r="4" fill="none" stroke="#00FF9F" stroke-width="1">
-    <animate attributeName="r" values="4;10" dur="1.6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values=".55;0" dur="1.6s" repeatCount="indefinite"/>
+  <circle cx="10" cy="12" r="3.5" fill="none" stroke="#00FF9F" stroke-width="1">
+    <animate attributeName="r" values="3.5;9" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".5;0" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="34" y="18" fill="#8B9180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">ONLINE · SXTHWIK.XYZ</text>
+  <text x="22" y="16" fill="#8B9180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2.5">ONLINE</text>
 </svg>
