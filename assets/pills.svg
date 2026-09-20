@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="42" viewBox="0 0 820 42" role="img" aria-label="titles">
+  <style>
+    .p { fill: none; stroke: #1C2118; }
+    .t { fill: #C8D6C0; font-family: ui-sans-serif, system-ui, Inter, Helvetica, Arial, sans-serif; font-size: 12px; letter-spacing: 0.6px; }
+  </style>
+  <rect class="p" x="8" y="8" width="128" height="26" rx="13"/>
+  <text class="t" x="72" y="26" text-anchor="middle">Cyber Polymath</text>
+  <rect class="p" x="144" y="8" width="214" height="26" rx="13"/>
+  <text class="t" x="251" y="26" text-anchor="middle">Offensive / Defensive Security</text>
+  <rect class="p" x="366" y="8" width="132" height="26" rx="13"/>
+  <text class="t" x="432" y="26" text-anchor="middle">Threat Research</text>
+  <rect class="p" x="506" y="8" width="72" height="26" rx="13"/>
+  <text class="t" x="542" y="26" text-anchor="middle">OSINT</text>
+  <rect class="p" x="586" y="8" width="56" height="26" rx="13" stroke="#00FF9F"/>
+  <text class="t" x="614" y="26" text-anchor="middle" fill="#00FF9F">AI</text>
+</svg>

@@ -1,36 +1,33 @@
 <div align="center">
 
 <a href="https://sxthwik.xyz">
-  <img src="https://github.com/chsxthwik/chsxthwik/blob/main/bb-banner.png?raw=true" width="100%" alt="QUANTUM"/>
+  <img src="bb-banner.png" width="100%" alt="QUANTUM"/>
 </a>
+
+<img src="assets/scan.svg" width="100%" alt=""/>
 
 # QUANTUM
 
-`Cyber Polymath` · `Offensive / Defensive Security` · `Threat Research` · `OSINT` · `AI`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=620&lines=I+stay+until+the+claim+is+true+or+finished;Cyber+%C3%97+AI+%C3%97+Engineering;Threat+research+in+the+open" alt="typing"/>
+<img src="assets/pills.svg" width="82%" alt="Cyber Polymath · Offensive / Defensive Security · Threat Research · OSINT · AI"/>
 
 <br/>
 
-[`sxthwik.xyz`](https://sxthwik.xyz) · [`x.com/chsxthwik`](https://x.com/chsxthwik) · [`github`](https://github.com/chsxthwik) · [`mail`](mailto:sathwik832@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1100&color=00FF9F&center=true&vCenter=true&width=560&lines=I+stay+until+the+claim+is+true+or+finished;Cyber+%C3%97+AI+%C3%97+Engineering" alt=""/>
+
+<br/>
+
+<a href="https://sxthwik.xyz"><img src="https://img.shields.io/badge/website-sxthwik.xyz-00FF9F?style=flat-square&labelColor=07080a" alt="website"/></a>
+&nbsp;
+<a href="https://x.com/chsxthwik"><img src="https://img.shields.io/badge/x-@chsxthwik-e8eadc?style=flat-square&labelColor=07080a" alt="x"/></a>
+&nbsp;
+<a href="https://github.com/chsxthwik"><img src="https://img.shields.io/badge/github-chsxthwik-e8eadc?style=flat-square&labelColor=07080a" alt="github"/></a>
+&nbsp;
+<a href="mailto:sathwik832@gmail.com"><img src="https://img.shields.io/badge/mail-sathwik832-e8eadc?style=flat-square&labelColor=07080a" alt="mail"/></a>
+
+<br/><br/>
+
+<a href="https://sxthwik.xyz">
+  <img src="assets/live.svg" alt="online · sxthwik.xyz"/>
+</a>
 
 </div>
-
----
-
-```text
-quantum@matrix ~/identity
-────────────────────────────────────────
- alias     QUANTUM
- class     Cyber Polymath
- focus     Offensive / Defensive Security
- stack     Threat Research · OSINT · AI
- status    ONLINE
- site      sxthwik.xyz
-```
-
-| ship | what it is |
-|:-----|:-----------|
-| [SUBDOX](https://github.com/chsxthwik/SUBDOX) | 24/7 subdomain takeover watch |
-| [mcp-fsck](https://github.com/chsxthwik/mcp-fsck) | MCP config integrity — secrets, injection, tool poison |
-| [CVE notes](https://github.com/chsxthwik?tab=repositories) | public vuln research, written down |
