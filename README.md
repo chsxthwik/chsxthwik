@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Website-sxthwik.xyz-00FF9F?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="https://x.com/chsxthwik">
-  <img src="https://img.shields.io/badge/Ǖ-@chsxthwik-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-@chsxthwik-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="https://github.com/chsxthwik">
   <img src="https://img.shields.io/badge/GitHub-chsxthwik-181717?style=for-the-badge&logo=github&logoColor=white"/>
