@@ -14,9 +14,9 @@ Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research
 &nbsp;
 <a href="https://x.com/chsxthwik"><img src="https://img.shields.io/badge/x-@chsxthwik-e8eadc?style=flat-square&labelColor=07080a&logo=x&logoColor=e8eadc" alt="@chsxthwik on X"/></a>
 &nbsp;
-<a href="https://github.com/chsxthwik"><img src="https://img.shields.io/badge/gh-@chsxthwik-e8eadc?style=flat-square&labelColor=07080a&logo=github&logoColor=e8eadc" alt="@chsxthwik on GitHub"/></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/sxthwik"><img src="https://img.shields.io/badge/in-sxthwik-e8eadc?style=flat-square&labelColor=07080a&logo=linkedin&logoColor=e8eadc" alt="sxthwik on LinkedIn"/></a>
+&nbsp;
+<a href="https://github.com/chsxthwik"><img src="https://img.shields.io/badge/gh-@chsxthwik-e8eadc?style=flat-square&labelColor=07080a&logo=github&logoColor=e8eadc" alt="@chsxthwik on GitHub"/></a>
 &nbsp;
 <a href="mailto:sathwik832@gmail.com"><img src="https://img.shields.io/badge/mail-sathwik832-e8eadc?style=flat-square&labelColor=07080a&logo=gmail&logoColor=e8eadc" alt="sathwik832@gmail.com"/></a>
 
