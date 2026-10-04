@@ -20,9 +20,7 @@ Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research
 &nbsp;
 <a href="mailto:sathwik832@gmail.com"><img src="https://img.shields.io/badge/mail-sathwik832-e8eadc?style=flat-square&labelColor=07080a&logo=gmail&logoColor=e8eadc" alt="sathwik832@gmail.com"/></a>
 
-<a href="https://open.spotify.com/track/7981a0fWmY1Uj6cT1jhp52">
-  <img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/spotify.svg" width="520" alt="Play 52 Bars by Karan Aujla and Ikky on Spotify"/>
-</a>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7981a0fWmY1Uj6cT1jhp52?utm_source=generator&si=95199a6614624611" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/live.svg" alt="online"/>
 
