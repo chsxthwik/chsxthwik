@@ -20,6 +20,10 @@ Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research
 &nbsp;
 <a href="mailto:sathwik832@gmail.com"><img src="https://img.shields.io/badge/mail-sathwik832-e8eadc?style=flat-square&labelColor=07080a&logo=gmail&logoColor=e8eadc" alt="sathwik832@gmail.com"/></a>
 
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX8V4BE7YIpvE">
+  <img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/spotify.svg" width="520" alt="Play Synthwave Chill on Spotify"/>
+</a>
+
 <img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/live.svg" alt="online"/>
 
 </div>

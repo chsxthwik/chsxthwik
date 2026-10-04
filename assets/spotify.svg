@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="108" viewBox="0 0 520 108" role="img" aria-label="Play Synthwave Chill on Spotify">
+  <rect x="0.5" y="0.5" width="519" height="107" rx="12" fill="#07080a" stroke="#1c2118"/>
+  <rect x="16" y="22" width="64" height="64" rx="8" fill="#0b0e0c" stroke="#1c2118"/>
+  <g fill="#00FF9F">
+    <rect x="31" width="4" rx="1">
+      <animate attributeName="y" values="64;46;60;42;64" dur="1.15s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="14;32;18;36;14" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="41" width="4" rx="1">
+      <animate attributeName="y" values="50;64;44;60;50" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="28;14;34;18;28" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="51" width="4" rx="1">
+      <animate attributeName="y" values="58;42;62;50;58" dur="1.3s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="20;36;16;28;20" dur="1.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="61" width="4" rx="1">
+      <animate attributeName="y" values="46;60;48;64;46" dur="1.05s" repeatCount="indefinite"/>
+      <animate attributeName="height" values="32;18;30;14;32" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="96" y="42" fill="#00FF9F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2.6">SPOTIFY</text>
+  <text x="96" y="64" fill="#e8eadc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Synthwave Chill</text>
+  <text x="96" y="84" fill="#8b9180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Focus, game, or chill</text>
+  <circle cx="478" cy="54" r="18" fill="#00FF9F"/>
+  <path d="M472 44.5 L472 63.5 L490 54 Z" fill="#07080a"/>
+</svg>
