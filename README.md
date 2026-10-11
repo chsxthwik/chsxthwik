@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://sxthwik.xyz">
-  <img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/bb-banner.png" width="100%" alt="QUANTUM"/>
+  <img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/bb-banner.png" width="100%" alt="The joy is in the thrill of the hunt"/>
 </a>
 
 # QUANTUM
 
 Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=1100&color=00FF9F&center=true&vCenter=true&width=520&lines=I+stay+until+the+claim+is+true+or+finished" alt="I stay until the claim is true or finished"/>
+<img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/typing.svg" width="520" alt="I stay until the claim is true or finished"/>
 
 <a href="https://sxthwik.xyz" title="Website"><img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/badge-web.svg" height="28" alt="Website: sxthwik.xyz"/></a>
 &nbsp;
