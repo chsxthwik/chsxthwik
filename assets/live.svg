@@ -6,5 +6,5 @@
     <animate attributeName="r" values="3.2;8.5" dur="1.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values=".45;0" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="22" y="15.5" fill="#8B9180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">ONLINE</text>
+  <text x="22" y="15.5" fill="#8b9180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">ONLINE</text>
 </svg>
