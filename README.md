@@ -23,3 +23,12 @@ Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research
 <img src="https://raw.githubusercontent.com/chsxthwik/chsxthwik/main/assets/live.svg" alt="online"/>
 
 </div>
+
+## Projects
+
+| | |
+|---|---|
+| **[SUBDOX](https://github.com/chsxthwik/SUBDOX)** | 24/7 monitor for subdomain takeover loopholes — watches a target list and surfaces claimable 404s |
+| **[MCP-FSCK](https://github.com/chsxthwik/MCP-FSCK)** | Integrity check for MCP server configs — audits Claude, Cursor, VS Code, and Windsurf agent configs for secrets, injection-prone args, and tool poisoning |
+| **[OPENCODE-GO-CHAT](https://github.com/chsxthwik/OPENCODE-GO-CHAT)** | Android client for OpenCode Go — frontier models on mobile |
+| **[HUNTER-XSS](https://github.com/chsxthwik/HUNTER-XSS)** | XSS payload list, testing checklist, and a Bash scanning workflow |
