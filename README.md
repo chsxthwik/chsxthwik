@@ -24,11 +24,3 @@ Cyber Polymath · Offensive / Defensive Security · OSINT & Threat Research
 
 </div>
 
-## Projects
-
-| | |
-|---|---|
-| **[SUBDOX](https://github.com/chsxthwik/SUBDOX)** | Subdomain takeover monitor. Scans a target list on a schedule and alerts on claimable hosts. |
-| **[MCP-FSCK](https://github.com/chsxthwik/MCP-FSCK)** | Static analyzer for MCP client configs. Flags secrets, risky arguments and tool poisoning. |
-| **[OPENCODE-GO-CHAT](https://github.com/chsxthwik/OPENCODE-GO-CHAT)** | Android chat client for OpenCode Go. |
-| **[HUNTER-XSS](https://github.com/chsxthwik/HUNTER-XSS)** | XSS payload list, testing checklist, and a Bash scanning workflow |
